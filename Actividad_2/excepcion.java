@@ -1,3 +1,4 @@
+package Actividad_2;
 public class excepcion {
     public void validar(int num) throws Exception {
         if (num % 2 != 0) {
